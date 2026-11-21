@@ -1,0 +1,5 @@
+summary: A command-line tool to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.48
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/file-5.48-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 062cfbc53f135a19cf3a2706d580bf1aa0eb22300206eb3bf48aadc3d73db1fd

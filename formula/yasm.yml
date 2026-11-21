@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://github.com/yasm/yasm
+version: 2026.11.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/yasm-2026.11.21-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 5a4cde721e2258ab464ca54700dc556311d91446399cb10409da0e346cd599fd

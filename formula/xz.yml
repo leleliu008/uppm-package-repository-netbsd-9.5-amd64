@@ -1,0 +1,5 @@
+summary: A free, general-purpose data compression with a high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.8.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/xz-5.8.3-netbsd-9.5-amd64.release.tar.xz
+bin-sha: fb8bfaaa2ab4f8212b508be4ce82bdb8b4f68a1fc2f4945d00c80e466a2c3ca2

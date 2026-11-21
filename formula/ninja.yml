@@ -1,0 +1,5 @@
+summary: A small build system with a focus on speed
+webpage: https://ninja-build.org/
+version: 1.13.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/ninja-1.13.2-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 9bf07ecc36add835962a70d601b6df80e1551d0be017608f5efdf0bdbeb8c3b4

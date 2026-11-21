@@ -86,8 +86,8 @@ jobs:
 
       - run: ./ppkg setup
       - run: ./ppkg update
-      - run ./ppkg install netbsd-9.5-amd64/${{ matrix.pkg }} --static
-      - run ./ppkg bundle  netbsd-9.5-amd64/${{ matrix.pkg }} .tar.xz
+      - run: ./ppkg install netbsd-9.5-amd64/${{ matrix.pkg }} --static
+      - run: ./ppkg bundle  netbsd-9.5-amd64/${{ matrix.pkg }} .tar.xz
 
       - run: |
           PACKAGE_SUMMARY="$(./ppkg show netbsd-9.5-amd64/${{ matrix.pkg }} summary)"

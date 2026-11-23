@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+bin-url: https://go.dev/dl/go1.27.4.netbsd-amd64.tar.gz
+bin-sha: ba4f547835ed302e9d5e376fa63246a7a6c32af9576778135d5d680205a91472
+version: 1.27.4

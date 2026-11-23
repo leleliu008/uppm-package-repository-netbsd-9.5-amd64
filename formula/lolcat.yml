@@ -1,5 +1,5 @@
 summary: Rainbows and unicorns in your console
 webpage: https://github.com/jaseg/lolcat
 version: 1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/lolcat-1.4-netbsd-9.5-amd64.release.tar.xz
-bin-sha: e5c1b8fdac05c5dfc20e7e5665b89f460514a9b76c2978cf17e3314c7689e17f
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/lolcat-1.4-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 57fb81aa6ee3851e6f6e86b7e7c676ccf906adf36ed5472ff5f56c2606c0da62

@@ -1,5 +1,5 @@
 summary: A command-line option parsing utility
 webpage: https://frodo.looijaard.name/project/getopt
 version: 1.1.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/getopt-1.1.6-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 95ab1797cfcc22d7bf008c0001e9f3b389eebf2826678a8798f1fe5015604f28
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/getopt-1.1.6-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 40f0ce50487b9bbe79eeb06f451ff1a3797d1cd82642cf6f417515c7a7c1662f

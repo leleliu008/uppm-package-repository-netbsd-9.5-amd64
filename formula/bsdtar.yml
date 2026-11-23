@@ -1,5 +1,5 @@
 summary: BSD tar
 webpage: https://www.libarchive.org/
 version: 3.8.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/bsdtar-3.8.11-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 5a621e43aab3c4b95d368321bb196807bd7a6b46c45100854db674f6048006ca
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/bsdtar-3.8.11-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 3946a87bfde8eb99ab75129826714399d2ed381428940de66ef45b318c9a9280

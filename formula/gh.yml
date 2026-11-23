@@ -1,5 +1,5 @@
 summary: A command-line interface that brings github.com functionality to your terminal
 webpage: https://github.com/cli/cli
-version: 2.95.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/gh-2.95.0-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 30646ac0625a8e371eb1dcbb1e2b5bf0feb02892824efdec0e308b0528613793
+version: 2.104.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/gh-2.104.0-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 6364c21e19a067cce98a33f97b0563194572c75bc2e61ef69eda2f1a1d8eef31

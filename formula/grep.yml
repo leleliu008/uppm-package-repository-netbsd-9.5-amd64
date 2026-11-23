@@ -1,5 +1,5 @@
 summary: GNU grep, egrep and fgrep
 webpage: https://www.gnu.org/software/grep
 version: 3.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/grep-3.12-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 802e39afb10a6fb7e46986ab87d015a01d64f3b1968ef501a5d0821d1974b59f
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/grep-3.12-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 9f1682c5cc230cdd783872ec9808f7c7dd46ef196d4581e0e58ae3dc9f12d3fe

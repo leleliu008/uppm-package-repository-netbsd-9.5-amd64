@@ -1,5 +1,5 @@
 summary: A modern diagram scripting language that turns text to diagrams
 webpage: https://github.com/d2lang/d2
 version: 0.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/d2-0.9.0-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 0020d8d3a3c15602f2ae820cb1955e414c53be59606505b2b45112d7e62bb248
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/d2-0.9.0-netbsd-9.5-amd64.release.tar.xz
+bin-sha: bfe1a875a1fdc28447ed3e1fe70625eb77cb73e64692b465cb234299d2780f00

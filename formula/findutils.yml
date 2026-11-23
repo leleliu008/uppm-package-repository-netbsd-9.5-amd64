@@ -1,5 +1,5 @@
 summary: A package of several programs related to finding files
 webpage: https://www.gnu.org/software/findutils
-version: 4.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/findutils-4.10.0-netbsd-9.5-amd64.release.tar.xz
-bin-sha: adf0e4eeab413afc45e4284f3c7b3133d70a703696ee591287a287c19b0ce4bd
+version: 4.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/findutils-4.11.0-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 1c9f39144dd2d055d53e3f21fd5b56e4a7406766ba10e03b3b13f93862e367e8

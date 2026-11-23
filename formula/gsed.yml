@@ -1,5 +1,5 @@
 summary: GNU implementation of the famous stream editor
 webpage: https://www.gnu.org/software/sed
 version: 4.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/gsed-4.10-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 721fdd1f9a26bee51d8ddc7a2018f5e545477ceedee4fb971bfdd137ce4b9777
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/gsed-4.10-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 6dc5fd20e3df2b9b4ac6f911ff30ce1bfe8a0e43ea2aff0d37d54b98c57c149a

@@ -1,5 +1,5 @@
 summary: Utility for directing compilation
 webpage: https://www.gnu.org/software/make
 version: 4.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/gmake-4.4.1-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 789df2bb5956f17cfed7ad29bb6fd076d6abb80782aa87d4c3b312fb4f983b84
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/gmake-4.4.1-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 5ce5e9790880872a41da80368b7c7f0a0d1da427c9967c8c862881c0183b3d63

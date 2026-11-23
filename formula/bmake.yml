@@ -1,5 +1,5 @@
 summary: Portable version of NetBSD make(1)
 webpage: https://www.crufty.net/help/sjg/bmake.html
 version: 20260824
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/bmake-20260824-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 291154bdef27751582017f251a09c87f02910f2c483c1ec761d198e8240b744d
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/bmake-20260824-netbsd-9.5-amd64.release.tar.xz
+bin-sha: 3dd9aad9588f8894325e34021373da09f40d1409157184a6cc67f6fa450a1db2

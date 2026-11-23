@@ -1,5 +1,5 @@
 summary: A real-time compression utility with high compression ratios
 webpage: https://facebook.github.io/zstd
 version: 1.5.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.21/zstd-1.5.7-netbsd-9.5-amd64.release.tar.xz
-bin-sha: 8fc5c35788f8a9f1d117b65d43642008123e651e5745a957161da0ffb6b8e011
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.5-amd64/releases/download/2026.11.23/zstd-1.5.7-netbsd-9.5-amd64.release.tar.xz
+bin-sha: dc7df2533fa7274697ea3e6061437e8bf88a43cedbe42ea9956ad0178f201f77

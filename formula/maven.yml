@@ -1,0 +1,13 @@
+summary: A Java-based project management and comprehension tool
+webpage: https://maven.apache.org/
+bin-url: https://dlcdn.apache.org/maven/maven-3/3.10.2/binaries/apache-maven-3.10.2-bin.tar.gz
+bin-sha: 8ba13121794243e604dbca50439f6ae649ce602675a167129556fd502947b249
+version: 3.10.2
+dep-pkg: jdk21 gsed
+install: |
+    JDK_INSTALL_DIR="${PKG_INSTALL_DIR%/*}/jdk21"
+
+    for f in bin/mvn bin/mvnDebug bin/mvnyjp
+    do
+        gsed -i "1a export JAVA_HOME='$JDK_INSTALL_DIR'" "$f"
+    done
